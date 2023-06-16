@@ -212,9 +212,9 @@ footer {
 }
   
 .logo {
-    width: 30%;
-    height: 30%;
-}
+    width: 150px;
+    height: auto;
+}  
   
 .social-icon {
     display: inline-block;
@@ -286,10 +286,5 @@ footer {
 
     .results {
         border-radius: var(--border-radius);
-    }
-
-    .logo {
-        width: 10%;
-        height: 10%;
     }
 }
